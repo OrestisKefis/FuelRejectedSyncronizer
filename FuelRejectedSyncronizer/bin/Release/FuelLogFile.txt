@@ -1,0 +1,4 @@
+Connection Testing: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.) (11/26/2022 7:23:24 PM)
+No rows affected (11/26/2022 7:23:24 PM)
+Connection Testing: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 - No such host is known.) (11/26/2022 7:24:30 PM)
+No rows affected (11/26/2022 7:24:30 PM)

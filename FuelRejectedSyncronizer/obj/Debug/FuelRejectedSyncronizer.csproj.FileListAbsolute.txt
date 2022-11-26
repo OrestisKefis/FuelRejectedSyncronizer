@@ -1,0 +1,8 @@
+C:\Users\orestis.kefis\source\repos\FuelRejectedSyncronizer\FuelRejectedSyncronizer\bin\Debug\FuelRejectedSyncronizer.exe.config
+C:\Users\orestis.kefis\source\repos\FuelRejectedSyncronizer\FuelRejectedSyncronizer\bin\Debug\FuelRejectedSyncronizer.exe
+C:\Users\orestis.kefis\source\repos\FuelRejectedSyncronizer\FuelRejectedSyncronizer\bin\Debug\FuelRejectedSyncronizer.pdb
+C:\Users\orestis.kefis\source\repos\FuelRejectedSyncronizer\FuelRejectedSyncronizer\obj\Debug\FuelRejectedSyncronizer.csproj.AssemblyReference.cache
+C:\Users\orestis.kefis\source\repos\FuelRejectedSyncronizer\FuelRejectedSyncronizer\obj\Debug\FuelRejectedSyncronizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\orestis.kefis\source\repos\FuelRejectedSyncronizer\FuelRejectedSyncronizer\obj\Debug\FuelRejectedSyncronizer.csproj.CoreCompileInputs.cache
+C:\Users\orestis.kefis\source\repos\FuelRejectedSyncronizer\FuelRejectedSyncronizer\obj\Debug\FuelRejectedSyncronizer.exe
+C:\Users\orestis.kefis\source\repos\FuelRejectedSyncronizer\FuelRejectedSyncronizer\obj\Debug\FuelRejectedSyncronizer.pdb
